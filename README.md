@@ -4,6 +4,13 @@
   <p>❗ This tool is for educational and testing purposes only.</p>
 </div>
 
+# 🎯 Features
+
+- 🔍 Perform automated Google Dorking queries
+- 📄 Save results to a text file
+- 📦 Simple CLI interface
+- 🛠️ Easy to customize and extend
+
 
 <h1>🚀 How to Use This Tool</h1>
 <p>Before running the script, make sure Python is installed on your system.</p>
@@ -67,6 +74,10 @@ python3 google_url_dorker.py -d 'YOUR DORK' -c 50 --write results.txt
 | `-x` or `--examlpes` | Show usage examples and contacts |
 
 
+## 📫 Contact
+
+Made with ❤️ by [WhiteeRabbit](https://github.com/WhiteeRabbit)  
+Feel free to open an issue or contact me for suggestions!
 
 
 ## 📃 License: 
