@@ -1,21 +1,28 @@
-MIT License
+Custom License by WhiteeRabbit  
+Copyright (c) 2025 WhiteeRabbit
 
-Copyright (c) 2025 White__RABBIT
+This software is provided for educational and personal use only.  
+You are allowed to:
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+✅ Use:
+- Use this code for learning, educational, or personal purposes.
+- Modify the code for your own non-commercial use, for example:
+  - Adding new features,
+  - Changing the interface,
+  - Integrating with other APIs or libraries.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+✅ Share:
+- You may share the original or modified version **only if**:
+  - You clearly credit the original author (WhiteeRabbit).
+  - You provide a link to the author's GitHub profile: https://github.com/WhiteeRabbit
+❌ You are NOT allowed to:
+- Sell this software or use it in any commercial context (including paid services, courses, or products).
+- Use it in advertisements, monetized YouTube videos, or promotional content.
+- Remove or replace the author’s name or GitHub link.
+- Present it as your own original work.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+📌 Even when sharing a modified version, you **must** mention the original project and author with an active link.
+
+By using, modifying, or sharing this software, you agree to these terms.  
+Violation of these terms may result in legal consequences.  
+For commercial use, please contact the author via GitHub.
