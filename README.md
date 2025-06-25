@@ -1,5 +1,6 @@
 <div align="center">
   <h1>🔍 Google Dorking Script</h1>
+  <img src="https://i.postimg.cc/13mnX2Q8/Screenshot-from-2025-06-25-12-54-08.png" alt="dork" border="0">
   <p>Simple Automatizated Google dorker script written in Python</p>
   <p>❗ This tool is for educational and testing purposes only.</p>
 </div>
