@@ -63,6 +63,19 @@ python3 google_url_dorker.py -d 'YOUR DORK' -c 50
 python3 google_url_dorker.py -d 'YOUR DORK' -c 50 --write results.txt
 ```
 
+# 🖧 Bypass Google Blocking (Using Proxy) 🔓
+
+If Google blocks your connection while performing dorking, you can configure the script to use a proxy:
+Go to `line 16` of this script and add your HTTPS proxy:
+
+```python
+proxy = 'https://your-proxy-address:port'
+```
+Then go to `line 19` and update the search call to include the proxy:
+
+```python
+res = search(query, num_results=count, proxy=proxy, timeout=22)
+```
 
 <h2>⚪ 🛠️ Usage Options 📝</h2>
 
