@@ -13,10 +13,12 @@ args = parser.parse_args()
 
 links = []
 
-proxy = 'http://72.10.160.91:20137'
+# To bypass Google blocks, you can use a proxy:
+# proxy = 'YOUR_HTTPS_PROXY'
 
 def dorksearch(query, count):
-    res = search(query, num_results=count, proxy=proxy, timeout=22)
+    # Add 'proxy=proxy' if you want to use a proxy to avoid rate limits
+    res = search(query, num_results=count, timeout=22) # ← Add proxy=proxy if needed
     
     for url in res:
         links.append(url + '\n')
